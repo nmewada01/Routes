@@ -1,0 +1,38 @@
+{
+"products": [
+    {
+        "image":"https://media.gettyimages.com/photos/apple-iphone-11-pro-gray-smartphone-picture-id1190447864?k=20&m=1190447864&s=612x612&w=0&h=vH7gHpSJx6jv8q8IgYjzyOIjzmJZHgb6FpSVbwQYm34=",
+        "name" : "SmartPhone",
+        "price": 30,
+        "id" : 0
+    },
+    {
+        "image":"https://media.gettyimages.com/photos/-picture-id887318348?k=20&m=887318348&s=612x612&w=0&h=cBaSgUAl_TC5WrJRTTPVWpis41H2eTlz9M9vFHLaCTE=",
+        "name" : "Watch",
+        "price" : 20,
+        "id" : 1
+    },
+    {
+        "image":"https://media.gettyimages.com/photos/stylish-young-man-picture-id527916572?k=20&m=527916572&s=612x612&w=0&h=wH95yOFVp7B4O8RpizfmnrLaeV5FUC3y3tnkYKWSdfI=",
+        "name" : "Shirt",
+        "price" : 50,
+        "id" : 2
+    },
+    {
+        "image":"https://media.gettyimages.com/photos/skinny-tight-blue-jeans-on-white-background-picture-id171269123?k=20&m=171269123&s=612x612&w=0&h=JlVWkOon9c0_qMeFhexIszyUL_xRGDss-Y7qeulkCtA=",
+        "name" : "Pants",
+        "price" : 100,
+        "id" : 3
+    },
+    {
+        "image":"https://media.gettyimages.com/photos/canvas-shoes-picture-id171224469?k=20&m=171224469&s=612x612&w=0&h=-gCNzSsAb9abkuq2ZH3Dwr9uT-FV2AcCDGK7Q1qJ41E=",
+        "name" : "shoes",
+        "price" : 10,
+        "id" : 4
+    },
+    {
+        "name":"gloves"
+    }
+]
+
+}
